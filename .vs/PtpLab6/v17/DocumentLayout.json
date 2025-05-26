@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phong\\source\\repos\\PtpLab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|c:\\users\\phong\\source\\repos\\ptplab6\\ptplab6\\views\\ptpemployee\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|solutionrelative:ptplab6\\views\\ptpemployee\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|c:\\users\\phong\\source\\repos\\ptplab6\\ptplab6\\controllers\\ptpemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|solutionrelative:ptplab6\\controllers\\ptpemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|c:\\users\\phong\\source\\repos\\ptplab6\\ptplab6\\models\\ptpemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|solutionrelative:ptplab6\\models\\ptpemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|c:\\users\\phong\\source\\repos\\ptplab6\\ptplab6\\views\\ptphome\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|solutionrelative:ptplab6\\views\\ptphome\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|c:\\users\\phong\\source\\repos\\ptplab6\\ptplab6\\views\\ptphome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|solutionrelative:ptplab6\\views\\ptphome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|c:\\users\\phong\\source\\repos\\ptplab6\\ptplab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|solutionrelative:ptplab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|c:\\users\\phong\\source\\repos\\ptplab6\\ptplab6\\controllers\\ptphomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C87241-AAE9-41FB-B696-370253519C55}|PtpLab6\\PtpLab6.csproj|solutionrelative:ptplab6\\controllers\\ptphomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Views\\PtpEmployee\\FileName.cs",
+              "RelativeDocumentMoniker": "PtpLab6\\Views\\PtpEmployee\\FileName.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Views\\PtpEmployee\\FileName.cs",
+              "RelativeToolTip": "PtpLab6\\Views\\PtpEmployee\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:12:56.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PtpEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Controllers\\PtpEmployeeController.cs",
+              "RelativeDocumentMoniker": "PtpLab6\\Controllers\\PtpEmployeeController.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Controllers\\PtpEmployeeController.cs",
+              "RelativeToolTip": "PtpLab6\\Controllers\\PtpEmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:58:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PtpEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Models\\PtpEmployee.cs",
+              "RelativeDocumentMoniker": "PtpLab6\\Models\\PtpEmployee.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Models\\PtpEmployee.cs",
+              "RelativeToolTip": "PtpLab6\\Models\\PtpEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:56:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Views\\PtpHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "PtpLab6\\Views\\PtpHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Views\\PtpHome\\Index.cshtml",
+              "RelativeToolTip": "PtpLab6\\Views\\PtpHome\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:54:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Program.cs",
+              "RelativeDocumentMoniker": "PtpLab6\\Program.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Program.cs",
+              "RelativeToolTip": "PtpLab6\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:52:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Views\\PtpHome\\StudentInfo.cshtml",
+              "RelativeDocumentMoniker": "PtpLab6\\Views\\PtpHome\\StudentInfo.cshtml",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Views\\PtpHome\\StudentInfo.cshtml",
+              "RelativeToolTip": "PtpLab6\\Views\\PtpHome\\StudentInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:51:30.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PtpHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Controllers\\PtpHomeController.cs",
+              "RelativeDocumentMoniker": "PtpLab6\\Controllers\\PtpHomeController.cs",
+              "ToolTip": "C:\\Users\\phong\\source\\repos\\PtpLab6\\PtpLab6\\Controllers\\PtpHomeController.cs",
+              "RelativeToolTip": "PtpLab6\\Controllers\\PtpHomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:06:40.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

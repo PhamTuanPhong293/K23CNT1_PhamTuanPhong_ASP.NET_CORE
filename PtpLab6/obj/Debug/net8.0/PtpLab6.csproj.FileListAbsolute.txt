@@ -1,0 +1,8 @@
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.AssemblyInfoInputs.cache
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.AssemblyInfo.cs
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.csproj.CoreCompileInputs.cache
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.RazorAssemblyInfo.cache
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.RazorAssemblyInfo.cs
+C:\Users\phong\source\repos\PtpLab6\PtpLab6\obj\Debug\net8.0\PtpLab6.csproj.AssemblyReference.cache
